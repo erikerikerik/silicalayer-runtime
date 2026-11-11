@@ -1,0 +1,26 @@
+{
+  "tag": "comfyui-0.43.0-macos-arm64-r1",
+  "asset": {
+    "name": "SilicaLayer-ComfyUI-0.43.0-macos-arm64.7z",
+    "size": 760253266,
+    "sha256": "891e8e2af644353deeba13ff122b3b4c23589f7b6611c334334f75c2f0b0a32f",
+    "unpackedBytes": 1887798757,
+    "files": 64653,
+    "longestPath": 173,
+    "python": "python/bin/python3",
+    "script": "ComfyUI/main.py",
+    "executables": ["python/bin/python3"]
+  },
+  "inputs": {
+    "python": {
+      "version": "3.12.14",
+      "release": "20260901",
+      "sha256": "3ee3ee547cedfeb7c2b16b2b7156039f7b470bb8f857e226fd3d2eb11db83c76"
+    },
+    "comfyui": {
+      "version": "0.43.0",
+      "commit": "426f5eea52a7ece1dd599fff4cb6cd1f352ddd24",
+      "sourceSha256": "96c0680fa97ae0f6a0cb23ae8f24347e076eb535b9b3292efcb4a98d72d67ce1"
+    }
+  }
+}
